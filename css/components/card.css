@@ -1,0 +1,43 @@
+
+
+.card {
+ padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.6);
+    border-radius: 6px;
+    margin: 60px 20px;
+    flex-basis: 380px;
+    flex-grow: 1;
+    color: black;
+    background-color: #23326A;
+}
+.card img {
+width: 210px; 
+border-radius: 6px;
+}
+
+.card h3 {
+flex-grow: 1;
+margin: auto 180px;
+font-size: 22px;
+font-family: Roboto;
+font-weight: bolder;
+justify-content: center;
+}
+
+.card a {
+background-color: black;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 300;
+    font-family: Roboto, sans-serif;
+    font-size: 22px;
+}
+
+.card a:hover {
+    background-color: white;
+    color: black;
+}

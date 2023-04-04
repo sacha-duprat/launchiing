@@ -1,0 +1,6 @@
+.avatar {
+width: 320px;
+height: 180px;
+border: 4px solid rgba(180,180,180,1);
+border-radius: 10px; 
+}

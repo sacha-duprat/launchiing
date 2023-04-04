@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(../../images/games.jpg); 
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+
+	font-size: 50px;
+margin-bottom: 0px;
+}
+
+.banner h2 {
+
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.85;
+	margin-bottom: 120px;
+}
+
+.banner button {
+color: blue;
+font-family: Roboto;
+
+}
